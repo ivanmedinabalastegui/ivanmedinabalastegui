@@ -1,4 +1,4 @@
-### 👋 Holaa! Soy Iván Medina un estudiante de Desarrollo de Aplicaciones Multiplataforma 👋
+### 👋 Holaa! Soy Iván Medina Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y estudiante de Ingeniería Informática 👋
 
 <div align="center">
   <a href="https://github.com/ivanmedinabalastegui">
